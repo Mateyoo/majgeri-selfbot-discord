@@ -15,4 +15,7 @@ belepsz discordba a bongeszodbe, nyitsz egy consolet es beirod ezt
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
 ```
 
-glhfhfhfhfhfhhfhfhfhfhf
+6. inditsd el a `node index.js` commanddal terminalba, ha minden zsirkiraly akkor nem fog visszadobni errort, ha igen, akkor oldd meg idc
+7. beirod a chatbe hogy !majgeri, es gucci minden
+
+hf
