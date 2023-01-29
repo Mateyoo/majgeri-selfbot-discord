@@ -16,6 +16,6 @@ belepsz discordba a bongeszodbe, nyitsz egy consolet es beirod ezt
 ```
 
 6. inditsd el a `node index.js` commanddal terminalba, ha minden zsirkiraly akkor nem fog visszadobni errort, ha igen, akkor oldd meg idc
-7. beirod a chatbe hogy !majgeri, es gucci minden
+7. beirod a chatbe hogy `!majgeri`, es gucci minden
 
 hf
