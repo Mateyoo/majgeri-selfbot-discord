@@ -8,7 +8,7 @@ elsőnek használva ezen a gizda dc szeron: https://discord.gg/qFMwecJW8q
 2. cloneold a repot
 3. fogod nyitsz egy terminalt a mappaba ahova letoltotted, es beirod h `npm i`
 4. az `index.js` fileban atirod a `REPLACE_WITH_YOUR_ID` reszt a sajat iddel. ezt ugy tudod megnezni, hogy benyomod a developer toolst a Discordban `settings -> advanced -> developer mode`, rajobbklikkelsz magadra, copy id, bemasolod, mindenki boldog
-5. a kod vegen a `REPLACE_TO_YOUR_TOKEN`-t is csereld ki a sajat tokenedre. legegyszerubb mod a kovetkezo:
+5. a kod vegen a `REPLACE_WITH_YOUR_TOKEN`-t is csereld ki a sajat tokenedre. legegyszerubb mod a kovetkezo:
 belepsz discordba a bongeszodbe, nyitsz egy consolet es beirod ezt
 
 ```js

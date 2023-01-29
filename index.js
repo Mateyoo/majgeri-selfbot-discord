@@ -35,4 +35,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('REPLACE_TO_YOUR_TOKEN');
+client.login('REPLACE_WITH_YOUR_TOKEN');
