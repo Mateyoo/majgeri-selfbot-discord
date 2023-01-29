@@ -26,7 +26,7 @@ client.on('message', msg => {
             });
         }
     }
-    if (toggle && targetUser.includes(msg.author.id)) {
+    if (toggle && targetUser.includes(msg.author.id) && !msg.attachments.first()) {
         if(lastMessageTimestamp.has(msg.author.id) && (Date.now() - lastMessageTimestamp.get(msg.author.id)) < antiSpamTimeout * 1000) {
             return;
         }
